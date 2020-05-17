@@ -44,7 +44,6 @@
                 android:layout_marginTop="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addThreeForTeamA"
-                android:textColor="#ffffff"
                 android:text="+3 points" />
 
             <Button
@@ -54,7 +53,6 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addTwoForTeamA"
-                android:textColor="#ffffff"
                 android:text="+2 points" />
 
             <Button
@@ -64,7 +62,6 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addOneForTeamA"
-                android:textColor="#ffffff"
                 android:text="free throw" />
 
         </LinearLayout>
@@ -109,7 +106,6 @@
                 android:layout_marginTop="24dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addThreeForTeamB"
-                android:textColor="#ffffff"
                 android:text="+3 points" />
 
             <Button
@@ -119,7 +115,6 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addTwoForTeamB"
-                android:textColor="#ffffff"
                 android:text="+2 points" />
 
             <Button
@@ -129,7 +124,6 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginRight="24dp"
                 android:onClick="addOneForTeamB"
-                android:textColor="#ffffff"
                 android:text="free throw" />
 
         </LinearLayout>
@@ -143,7 +137,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="32dp"
         android:onClick="resetScore"
-        android:textColor="#ffffff"
         android:text="reset" />
 
 </RelativeLayout>
